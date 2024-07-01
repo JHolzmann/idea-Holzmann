@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+.body{
+    background-color: #95ac7f;
+}
+.form-container {
+    margin-top: 50px;
+}
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
